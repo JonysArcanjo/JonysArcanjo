@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Computer Vision  Machine Larning](https://github.com/JonysArcanjo/JonysArcanjo/assets/48812740/1dca01c5-8284-4524-83b9-8ad73edf84cb)
+
 <!--
 **JonysArcanjo/JonysArcanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
