@@ -34,6 +34,11 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
     <a href="https://www.sap.com/" target="_blank" rel="noreferrer"><img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg" width="45 height="36" alt="SAP" /></a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://opencv.b-cdn.net/university/wp-content/uploads/sites/4/2023/02/OpenCV_logo_black_.png" width="36" height="36" alt="OpenCV" />
+    
+
+</a>
+
 
 </p>
 
