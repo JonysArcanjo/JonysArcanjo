@@ -47,7 +47,7 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 
 🚀 In this project, we explore the power of MediaPipe, an open-source platform developed by Google, to simplify the development of multimedia applications. Specifically, we utilize the BlazePose model GHUM 3D to detect and analyze 33 body landmarks, providing a comprehensive three-dimensional representation for accurate pose estimation. Enhance your applications with intuitive visualization and detailed performance analysis using this robust framework. 🌐✨
 <br>
-[![Click aqui](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Landmark_Detection_with_MediaPipe)
+[![Click here](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Landmark_Detection_with_MediaPipe)
 
 
 ---
@@ -62,7 +62,7 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 <br>
 <br>
 <br>
-[![Click aqui](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Facial_landmark_Detection_with_OpenCV)
+[![Click here](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Facial_landmark_Detection_with_OpenCV)
 
 
 
@@ -79,7 +79,7 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 <br>
 <br>
 
-[![Click aqui](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Drowsiness_Detection)
+[![Click here](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Drowsiness_Detection)
 
 ---
 
@@ -91,7 +91,7 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 
 🚀 The Indigenous Land (IL) Mãe Maria, located in the Amazon Region, specifically in the southern part of the state of Pará, is home to three indigenous groups: Gavião Akrãtikatêjê, Gavião Kykatejê, and Gavião Parkatêjê, totaling 709 inhabitants in an area of 62,488 hectares. These communities face conflicts stemming from various activities, such as governmental entities' actions, dam and hydroelectric power plant construction, the establishment of waterways, highways, railways, port complexes/terminals, and airports, in addition to public policies and environmental legislation.✨
 
-[![Click aqui](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Deforestation_Analysis_with_Landsat8)
+[![Click here](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Deforestation_Analysis_with_Landsat8)
 
 
 
