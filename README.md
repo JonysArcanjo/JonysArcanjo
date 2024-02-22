@@ -75,7 +75,8 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 </a>
 
 🚀 This project uses Python computer vision to monitor a user's eyes and detect signs of drowsiness. This technology has the potential to prevent accidents related to drowsiness, such as those that occur while driving.✨
-<br>[![Application Demo](https://img.shields.io/badge/Application%20Demo-red.svg)]([https://github.com/JonysArcanjo/Drowsiness_Detection](https://www.canva.com/design/DAF2gSZamd8/m4PF97PTUsC4Fgj7-uvMAA/watch))
+<br>
+[![Application Demo](https://img.shields.io/badge/Application%20Demo-red.svg)](https://www.canva.com/design/DAF2gSZamd8/m4PF97PTUsC4Fgj7-uvMAA/watch)
 
 <br>
 <br>
