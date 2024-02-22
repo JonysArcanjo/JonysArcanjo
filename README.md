@@ -46,7 +46,7 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 </a>
 
 🚀 In this project, we explore the power of MediaPipe, an open-source platform developed by Google, to simplify the development of multimedia applications. Specifically, we utilize the BlazePose model GHUM 3D to detect and analyze 33 body landmarks, providing a comprehensive three-dimensional representation for accurate pose estimation. Enhance your applications with intuitive visualization and detailed performance analysis using this robust framework. 🌐✨
-
+<br>
 [![Click aqui](https://img.shields.io/badge/Click%20aqui-blue.svg)](https://github.com/JonysArcanjo/Landmark_Detection_with_MediaPipe)
 
 
