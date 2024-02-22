@@ -77,10 +77,8 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 🚀 This project uses Python computer vision to monitor a user's eyes and detect signs of drowsiness. This technology has the potential to prevent accidents related to drowsiness, such as those that occur while driving.✨
 <br>
 [![Application Demo](https://img.shields.io/badge/Application%20Demo-red.svg)](https://www.canva.com/design/DAF2gSZamd8/m4PF97PTUsC4Fgj7-uvMAA/watch)
-
 <br>
 <br>
-
 [![Click here](https://img.shields.io/badge/Click%20here-blue.svg)](https://github.com/JonysArcanjo/Drowsiness_Detection)
 
 ---
@@ -92,7 +90,7 @@ Whether it's to discuss potential projects, collaborations, or just to exchange 
 </a>
 
 🚀 The Indigenous Land (IL) Mãe Maria, located in the Amazon Region, specifically in the southern part of the state of Pará, is home to three indigenous groups: Gavião Akrãtikatêjê, Gavião Kykatejê, and Gavião Parkatêjê, totaling 709 inhabitants in an area of 62,488 hectares. These communities face conflicts stemming from various activities, such as governmental entities' actions, dam and hydroelectric power plant construction, the establishment of waterways, highways, railways, port complexes/terminals, and airports, in addition to public policies and environmental legislation.✨
-
+<br>
 [![Click here](https://img.shields.io/badge/Click%20here-blue.svg)](https://github.com/JonysArcanjo/Deforestation_Analysis_with_Landsat8)
 
 
