@@ -12,7 +12,7 @@
 
 ## About me
 <p align="left">
-Hello, I'm Jonys Arcanjo! As a <strong>Computer Vision</strong> and <strong>Machine Learning</strong> Engineer, with over 4 years of experience in the field, my professional journey has led me to work on a variety of projects. This ranges from developing solutions for <strong>determining credit scores</strong> and <strong>establishing credit limits for clients</strong>, to solutions for <strong>object detection</strong>, <strong>recognition</strong>, and <strong>real-time video analysis</strong>.
+Hello, I'm Jonys Arcanjo! As a <strong>Machine Learning</strong> Engineer, with over 4 years of experience in the field, my professional journey has led me to work on a variety of projects. This ranges from developing solutions for <strong>determining credit scores</strong> and <strong>establishing credit limits for clients</strong>, to solutions for <strong>object detection</strong>, <strong>recognition</strong>, and <strong>real-time video analysis</strong>.
 </p>
 
 <p align="left">
